@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "924795320367",
+    "project_id": "eseva-75e45",
+    "storage_bucket": "eseva-75e45.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:924795320367:android:ccaeaad1f5105bc6496eda",
+        "android_client_info": {
+          "package_name": "com.example.flutt_second"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "924795320367-6f9cr40l3idq2r2jabg9toed18o2ma9d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0Q_x-KwaxyFP4dg31IFJlyGPLa3Kj7b8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "924795320367-6f9cr40l3idq2r2jabg9toed18o2ma9d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
